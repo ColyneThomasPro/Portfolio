@@ -31,6 +31,7 @@ function Profil() {
             numériques.</p> 
         </div>
       </section>
+      <div className="separation-lign"></div>
     </>
   );
 }

@@ -1,0 +1,80 @@
+#footer-contact, 
+#footer-mention {
+  text-align: center;
+  background-color: inherit;
+}
+
+#footer-contact h2 {
+  padding: 45px 45px 35px 45px;
+}
+
+.underline-small {
+  position: relative;
+  display: inline-block;
+}
+
+.underline-small::after {
+  content: '';
+  height: 2px;
+  width: 220px; 
+  background-color: white;
+  position: absolute;
+  left: calc(50% - 110px); 
+  bottom: 0;
+}
+
+#footer-contact h2,
+#footer-contact h4,
+#footer-mention h4 {
+  text-transform: uppercase;
+}
+
+.contact-info li {
+  font-size: 2.25rem;
+  font-family: "JosefinSansSemiBold";
+  padding: 15px 0;
+  color: #B7B0DD;
+}
+
+.contact-info li img {
+  padding-right: 15px;
+}
+
+.networks-title {
+  padding: 35px 0 0 0;
+}
+
+.networks, 
+.footer-nav, 
+.mention {
+  display: inline;
+}
+
+.networks li, 
+.footer-nav li, 
+.mention li {
+  display: inline;
+  font-size: 1.5rem;
+}
+
+.networks li img{
+  padding: 15px;
+}
+
+.footer-nav-container, 
+.mention-container {
+  padding: 15px 0 10px 0;
+}
+
+.footer-nav li, 
+.mention li {
+  display: inline;
+  align-items: center;
+  padding: 0 25px;
+  border-left: 1px solid white;
+}
+
+footer h4 {
+  font-family: "JosefinSansBold";
+  padding: 15px 0;
+}

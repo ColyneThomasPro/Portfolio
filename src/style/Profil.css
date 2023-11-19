@@ -7,7 +7,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 2vh 5vw;
+  margin: 5vh 5vw;
 }
 
 .presentation {
@@ -19,7 +19,6 @@
 }
 
 .presentation h3 {
-  font-size: 2.75rem;
   transform : rotate(-2deg);
   padding-bottom: 20px;
 }
