@@ -38,8 +38,8 @@
   }
 
   #profil-section img {
-    height: 350px;
-    margin-left: calc(50% - 125px);
+    width: 320px;
+    margin-left: calc(50% - 160px);
     margin-bottom: -15vh;
   }
 }
