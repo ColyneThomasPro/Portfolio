@@ -13,7 +13,7 @@
   src: url(../src/assets/fonts/josefin_sans/static/JosefinSans-Bold.ttf);
 }
 
-* {
+body {
   background-color: #1E1E1E;
   list-style: none;
   margin: 0;

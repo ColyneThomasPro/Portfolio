@@ -8,7 +8,7 @@ import github from "../assets/img/icons/Github.png";
 
 function Contact() {
   return (
-    <div className="footer">
+    <>
       <footer>
         <section id="footer-contact">
           <h2 className="underline-small">Contact</h2>
@@ -20,9 +20,10 @@ function Contact() {
               <li>
                 <img src={phone} alt="phone icon" />06 99 38 47 05
               </li>
-              <li className="underline-small">
+              <li>
                 <img src={email} alt="mail icon" />colyne.thomas300403@gmail.com
               </li>
+              <li className="underline-small"></li>
             </ul>
           </div>
           <h4 className="networks-title">Réseaux</h4>
@@ -58,7 +59,7 @@ function Contact() {
           </div>
         </section>
       </footer>
-    </div>
+    </>
   );
 }
 

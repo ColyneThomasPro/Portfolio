@@ -3,6 +3,10 @@
   src: url(../assets/fonts/josefin_sans/static/JosefinSans-Bold.ttf);
 }
 
+#profil-section-container {
+  background-image: url(../assets/img/profil-section-bckgrd.png);
+}
+
 #profil-section {
   display: flex;
   justify-content: center;
@@ -15,12 +19,12 @@
 }
 
 .presentation p {
-  font-size: 1.8rem;
+  font-size: 2rem;
 }
 
 .presentation h3 {
   transform : rotate(-2deg);
-  padding-bottom: 20px;
+  margin-bottom: 80px;
 }
 
 .purple-bold-txt {
