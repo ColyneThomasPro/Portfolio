@@ -41,12 +41,6 @@
   padding-right: 15px;
 }
 
-.networks, 
-.footer-nav, 
-.mention {
-  display: inline;
-}
-
 .networks li, 
 .footer-nav li, 
 .mention li {
@@ -60,13 +54,42 @@
 
 .footer-nav li, 
 .mention li {
-  display: inline;
   align-items: center;
-  padding: 0 25px;
+  padding: 0px 25px;
   border-left: 1px solid white;
 }
 
 footer h4 {
   font-family: "JosefinSansBold";
   padding: 15px 0;
+}
+
+@media (max-width: 655px) {
+  .contact-info li {
+    font-size: 1rem;
+  }
+
+  .contact-info li img {
+    width: 25px;
+  }
+
+  .networks li img{
+    width: 40px;
+  }
+
+  .footer-nav li, 
+  .mention li {
+    display: block;
+    font-size: 1rem;
+  }
+
+  .footer-nav li, 
+  .mention li {
+  padding: 5px 25px;
+  border-left: none;
+  }
+
+  footer h4 {
+    padding: 0;
+  }
 }

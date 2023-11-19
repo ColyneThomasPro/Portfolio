@@ -31,3 +31,25 @@
   color: #DDAAEF;
   font-family: "JosefinSansBold";
 }
+
+@media (max-width: 991px) {
+  #profil-section {
+    display: block;
+  }
+
+  #profil-section img {
+    height: 250px;
+    margin-left: calc(50% - 125px);
+  }
+}
+
+@media (max-width: 655px) {
+  .presentation p {
+    font-size: 1.2rem;
+  }
+
+  .presentation h3 {
+    transform : rotate(-2deg);
+    margin-bottom: 40px;
+  }
+}
