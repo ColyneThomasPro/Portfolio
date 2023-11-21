@@ -34,7 +34,12 @@
   font-size: 2.25rem;
   font-family: "JosefinSansSemiBold";
   padding: 15px 0;
-  color: #B7B0DD;
+  color: #f9fac4;
+}
+
+.footer-nav li:hover {
+  color: #f9fac4;
+  transition: color 0.2s ease-in-out;
 }
 
 .contact-info li img {
@@ -46,10 +51,17 @@
 .mention li {
   display: inline;
   font-size: 1.5rem;
+  color: white;
+  transition: color 0.2s ease-in-out;
 }
 
-.networks li img{
+.networks li img {
   padding: 15px;
+  transition: transform 0.2s ease-in-out; 
+}
+
+.networks li img:hover {
+  transform: scale(1.1);
 }
 
 .footer-nav li, 

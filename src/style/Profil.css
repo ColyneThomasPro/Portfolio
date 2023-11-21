@@ -1,8 +1,3 @@
-@font-face {
-  font-family: "JosefinSansBold";
-  src: url(../assets/fonts/josefin_sans/static/JosefinSans-Bold.ttf);
-}
-
 #profil-section-container {
   background-image: url(../assets/img/profil-section-bckgrd.png);
 }
@@ -28,6 +23,7 @@
 }
 
 .purple-bold-txt {
+  /* color: #DDAAEF; */
   color: #DDAAEF;
   font-family: "JosefinSansBold";
 }

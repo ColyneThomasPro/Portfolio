@@ -4,7 +4,8 @@ import profilPic from "../assets/img/profil.png";
 
 function Profil() {
   return (
-    <div id="profil-section-container">
+    <div id="profil-section-container" className="bckgrd-layer">
+      <div className="separation-lign"></div>
       <section id="profil-section">
         <img src={profilPic} alt="profil portrait"/>
         <div className="presentation">
