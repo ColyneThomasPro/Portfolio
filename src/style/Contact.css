@@ -78,7 +78,7 @@ footer h4 {
 
 @media (max-width: 655px) {
   .contact-info li {
-    font-size: 1rem;
+    font-size: 1.3rem;
   }
 
   .contact-info li img {
@@ -92,7 +92,7 @@ footer h4 {
   .footer-nav li, 
   .mention li {
     display: block;
-    font-size: 1rem;
+    font-size: 1.3rem;
   }
 
   .footer-nav li, 

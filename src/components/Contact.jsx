@@ -8,8 +8,7 @@ import github from "../assets/img/icons/Github.png";
 
 function Contact() {
   return (
-    <div className="bckgrd-layer-footer">
-      <footer>
+    <footer id="contact" className="bckgrd-layer-footer">
         <section id="footer-contact">
           <h2 className="underline-small">Contact</h2>
           <div className="contact-info">
@@ -58,8 +57,7 @@ function Contact() {
             </div>
           </div>
         </section>
-      </footer>
-    </div>
+    </footer>
   );
 }
 

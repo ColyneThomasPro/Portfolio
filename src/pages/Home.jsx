@@ -6,9 +6,9 @@ import Header from '../components/Header'
 function Home() {
   return (
     <div>
-      <Header/>
-      <Profil/>
-      <Contact />
+      <Header id="#header"/>
+      <Profil id="#profil"/>
+      <Contact  id="#contact"/>
     </div>
   )
 }
