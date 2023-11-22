@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.29f71719.css",
-    "main.js": "/Portfolio/static/js/main.f93eaa5c.js",
-    "static/media/stars.png": "/Portfolio/static/media/stars.26a9a5cba8bf01b3f072.png",
-    "static/media/mobile bckg.png": "/Portfolio/static/media/mobile bckg.72049bb7062aeb5e853f.png",
+    "main.css": "/Portfolio/static/css/main.30969d0b.css",
+    "main.js": "/Portfolio/static/js/main.ee9858da.js",
     "static/media/central-moon.png": "/Portfolio/static/media/central-moon.737288d015e36ef16aab.png",
+    "static/media/mobile bckg.jpg": "/Portfolio/static/media/mobile bckg.bb48a49af5235b9758db.jpg",
+    "static/media/bck-layer.jpg": "/Portfolio/static/media/bck-layer.7f0bcf512f1ad3824dc4.jpg",
     "static/media/middle moon.png": "/Portfolio/static/media/middle moon.1684fef0814e5190e970.png",
     "static/media/moon.png": "/Portfolio/static/media/moon.c29e4e93b38e5a638e43.png",
+    "static/media/bck-layer-2.png": "/Portfolio/static/media/bck-layer-2.91d48dfae7c4318e4f08.png",
     "static/media/profil.png": "/Portfolio/static/media/profil.71e2be51a799eefec38c.png",
     "static/media/mini moon.png": "/Portfolio/static/media/mini moon.e9ea80b9e229d6743894.png",
     "static/media/Chopper.ttf": "/Portfolio/static/media/Chopper.00bbc94e455d380ee7bd.ttf",
@@ -17,11 +18,11 @@
     "static/media/profil-section-bckgrd.png": "/Portfolio/static/media/profil-section-bckgrd.15cc1b9a221305dc44a1.png",
     "static/media/micro moon.png": "/Portfolio/static/media/micro moon.e736199280f7528075c7.png",
     "index.html": "/Portfolio/index.html",
-    "main.29f71719.css.map": "/Portfolio/static/css/main.29f71719.css.map",
-    "main.f93eaa5c.js.map": "/Portfolio/static/js/main.f93eaa5c.js.map"
+    "main.30969d0b.css.map": "/Portfolio/static/css/main.30969d0b.css.map",
+    "main.ee9858da.js.map": "/Portfolio/static/js/main.ee9858da.js.map"
   },
   "entrypoints": [
-    "static/css/main.29f71719.css",
-    "static/js/main.f93eaa5c.js"
+    "static/css/main.30969d0b.css",
+    "static/js/main.ee9858da.js"
   ]
 }
