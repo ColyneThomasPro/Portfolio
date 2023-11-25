@@ -79,15 +79,6 @@ a, a:visited {
   background-color: rgb(255, 255, 255);
 }
 
-.bckgrd-layer {
-  background-color: #1E1E1E;
-}
-
-.bckgrd-layer-footer {
-  background-color: #1e1e1e38;
-  padding-bottom: 1vh;
-}
-
 @media (max-width: 655px) {
   h2 {
     font-size: 3rem;

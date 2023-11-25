@@ -1,3 +1,13 @@
+.bckgrd-layer-footer {
+  background-color: #1e1e1e5e !important;
+  padding: 1vh 0;
+}
+
+.bckgrd-layer {
+  background-color: #1e1e1e !important;
+  padding: 1vh 0;
+}
+
 #footer-contact, 
 #footer-mention {
   text-align: center;

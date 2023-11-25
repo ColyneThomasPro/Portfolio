@@ -8,10 +8,10 @@ import github from "../assets/img/icons/Github.png";
 
 function Contact() {
   return (
-    <footer id="contact" className="bckgrd-layer-footer">
-        <section id="footer-contact">
+    <footer id="contact">
+        <section id="footer-contact" className="bckgrd-layer-footer">
           <h2 className="underline-small">Contact</h2>
-          <div className="contact-info">
+          <div className="contact-info" >
             <ul>
               <li>
                 <img src={localisation} alt="localisation icon" />Bordeaux, France
@@ -34,7 +34,7 @@ function Contact() {
           </div>
         </section>
         <div className="blck-separation-lign"></div>
-        <section id="footer-mention">
+        <section id="footer-mention" className="bckgrd-layer">
           <div className="footer-nav-container">
           <h4>Navigation</h4>
             <div className="footer-nav">

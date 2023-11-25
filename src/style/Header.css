@@ -47,6 +47,11 @@
   background-size: cover;
 }
 
+.stars3 {
+  background-image: url("../assets/img/stars.png");
+  background-size: cover;
+}
+
 .name {
   display: flex;
   justify-content: center;

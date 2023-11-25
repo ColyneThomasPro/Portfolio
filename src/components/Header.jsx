@@ -44,9 +44,14 @@ function Header() {
         data-depth="0.0"
       ></div>
       <div
+        className="stars3 layer desktop"
+        data-type="parallax"
+        data-depth="0.0"
+      ></div>
+      <div
         className="stars2 layer desktop"
         data-type="parallax"
-        data-depth="0.0.1"
+        data-depth="0.00"
       ></div>
       <div
         className="micro-moon layer desktop"
